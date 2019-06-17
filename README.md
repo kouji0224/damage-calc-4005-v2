@@ -37,4 +37,4 @@ console.log(dc.effectiveDamage(100, 50, 30));
 計算すると 83.33333... となり、
 小数点以下の四捨五入の結果、実効ダメージの 83 の値が得られます。
 
-[![CircleCI](https://circleci.com/gh/kouji0224/damage-calc-4005-v2.svg?style=svg)](https://circleci.com/gh/kouji0224/damage-calc-4005-v2)
+[![CircleCI](https://circleci.com/gh/kouji0224/damage-calc-4005-v2/tree/master-2018.svg?style=svg)](https://circleci.com/gh/kouji0224/damage-calc-4005-v2/tree/master-2018)
